@@ -1,3 +1,3 @@
 This program mimics OES teacher comments. 
-Comp Schi 1B Project
-Made by Al Chin
+Comp Sci 1B Project
+Made by Alexander Chin and Tanner King
